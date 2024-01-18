@@ -1,0 +1,11 @@
+chromedriver
+chromedriver-binary
+urllib3==1.26.7
+beautifulsoup4
+requests==2.26.0
+selenium==3.141.0
+lxml
+pandas
+gspread
+oauth2client
+webdriver-manager
